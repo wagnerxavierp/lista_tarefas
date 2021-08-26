@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Xavier\\Documents\\Flutter Projects\\lista_tarefas\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Xavier\\Documents\\Gitkraken Rep\\lista_tarefas\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Xavier\\Documents\\Flutter Projects\\lista_tarefas\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Xavier\\Documents\\Gitkraken Rep\\lista_tarefas\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
