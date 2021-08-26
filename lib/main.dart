@@ -4,6 +4,8 @@ import 'package:lista_tarefas/src/views/home_page.dart';
 /*
 * Criacao de uma feature
 */
+<<<<<<< Updated upstream
+=======
 
 /*
 * Criando uma release
@@ -11,9 +13,10 @@ import 'package:lista_tarefas/src/views/home_page.dart';
 
 /*
 * Stash e pop
-* Mais uma vez
+* testando outra vez
 */
 
+>>>>>>> Stashed changes
 void main() {
   runApp(MyApp());
 }
