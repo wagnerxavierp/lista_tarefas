@@ -9,6 +9,10 @@ import 'package:lista_tarefas/src/views/home_page.dart';
 * Criando uma release
 */
 
+/*
+* Stash e pop
+*/
+
 void main() {
   runApp(MyApp());
 }
